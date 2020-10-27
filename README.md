@@ -13,7 +13,7 @@
 <p align="center">
     <img src="https://img.shields.io/github/languages/count/verissimo-sn/nlw-ecoleta"/>
     &nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/github/stars/verissimo-sn/nlw-ecoleta?style=social"/>
+    <img src="https://img.shields.io/github/watchers/verissimo-sn/nlw-happy?label=visitors&style=social"/>
 </p>
 
 <p align="center">
